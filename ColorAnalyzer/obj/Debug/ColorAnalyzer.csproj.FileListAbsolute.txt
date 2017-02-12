@@ -1,0 +1,9 @@
+\\psf\home\documents\visual studio 2013\Projects\ColorAnalyzer\ColorAnalyzer\bin\Debug\ColorAnalyzer.exe.config
+\\psf\home\documents\visual studio 2013\Projects\ColorAnalyzer\ColorAnalyzer\bin\Debug\ColorAnalyzer.exe
+\\psf\home\documents\visual studio 2013\Projects\ColorAnalyzer\ColorAnalyzer\bin\Debug\ColorAnalyzer.pdb
+\\psf\home\documents\visual studio 2013\Projects\ColorAnalyzer\ColorAnalyzer\obj\Debug\ColorAnalyzer.csprojResolveAssemblyReference.cache
+\\psf\home\documents\visual studio 2013\Projects\ColorAnalyzer\ColorAnalyzer\obj\Debug\ColorAnalyzer.Form1.resources
+\\psf\home\documents\visual studio 2013\Projects\ColorAnalyzer\ColorAnalyzer\obj\Debug\ColorAnalyzer.Properties.Resources.resources
+\\psf\home\documents\visual studio 2013\Projects\ColorAnalyzer\ColorAnalyzer\obj\Debug\ColorAnalyzer.csproj.GenerateResource.Cache
+\\psf\home\documents\visual studio 2013\Projects\ColorAnalyzer\ColorAnalyzer\obj\Debug\ColorAnalyzer.exe
+\\psf\home\documents\visual studio 2013\Projects\ColorAnalyzer\ColorAnalyzer\obj\Debug\ColorAnalyzer.pdb
