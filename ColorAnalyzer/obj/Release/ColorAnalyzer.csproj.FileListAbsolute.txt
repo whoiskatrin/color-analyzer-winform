@@ -1,0 +1,10 @@
+C:\Users\NattyXO\Downloads\Compressed\color-analyzer-winform-master\ColorAnalyzer\bin\Release\ColorAnalyzer.exe.config
+C:\Users\NattyXO\Downloads\Compressed\color-analyzer-winform-master\ColorAnalyzer\bin\Release\ColorAnalyzer.exe
+C:\Users\NattyXO\Downloads\Compressed\color-analyzer-winform-master\ColorAnalyzer\bin\Release\ColorAnalyzer.pdb
+C:\Users\NattyXO\Downloads\Compressed\color-analyzer-winform-master\ColorAnalyzer\obj\Release\ColorAnalyzer.csproj.AssemblyReference.cache
+C:\Users\NattyXO\Downloads\Compressed\color-analyzer-winform-master\ColorAnalyzer\obj\Release\ColorAnalyzer.Form1.resources
+C:\Users\NattyXO\Downloads\Compressed\color-analyzer-winform-master\ColorAnalyzer\obj\Release\ColorAnalyzer.Properties.Resources.resources
+C:\Users\NattyXO\Downloads\Compressed\color-analyzer-winform-master\ColorAnalyzer\obj\Release\ColorAnalyzer.csproj.GenerateResource.cache
+C:\Users\NattyXO\Downloads\Compressed\color-analyzer-winform-master\ColorAnalyzer\obj\Release\ColorAnalyzer.csproj.CoreCompileInputs.cache
+C:\Users\NattyXO\Downloads\Compressed\color-analyzer-winform-master\ColorAnalyzer\obj\Release\ColorAnalyzer.exe
+C:\Users\NattyXO\Downloads\Compressed\color-analyzer-winform-master\ColorAnalyzer\obj\Release\ColorAnalyzer.pdb
