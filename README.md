@@ -28,11 +28,11 @@ git clone https://github.com/whoiskatrin/color-analyzer-winform.git
 ## Screenshots
 <br>
 <div align="center">
-    <img src="https://github.com/NattyXO/color-analyzer-winform/blob/flash/UI1.png" width="600" />
+    <img src="https://github.com/whoiskatrin/sql-translator/blob/flash/UI1.png" width="600" />
 </div>
 <br>
 <div align="center">
-    <img src="https://github.com/NattyXO/color-analyzer-winform/blob/flash/UI2.png" width="600" />
+    <img src="https://github.com/whoiskatrin/sql-translator/blob/flash/UI2.png" width="600" />
 </div>
 
 ## Contributing

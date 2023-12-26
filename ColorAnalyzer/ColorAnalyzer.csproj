@@ -79,12 +79,6 @@
     <None Include="App.config" />
   </ItemGroup>
   <ItemGroup>
-    <None Include="bin\Debug\icon.ico" />
-  </ItemGroup>
-  <ItemGroup>
-    <None Include="bin\Debug\coloranalayzer.ico" />
-  </ItemGroup>
-  <ItemGroup>
     <None Include="bin\Debug\Color-Analayzer.ico" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
