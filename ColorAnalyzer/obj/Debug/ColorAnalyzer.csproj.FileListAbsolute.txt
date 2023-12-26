@@ -7,3 +7,13 @@
 \\psf\home\documents\visual studio 2013\Projects\ColorAnalyzer\ColorAnalyzer\obj\Debug\ColorAnalyzer.csproj.GenerateResource.Cache
 \\psf\home\documents\visual studio 2013\Projects\ColorAnalyzer\ColorAnalyzer\obj\Debug\ColorAnalyzer.exe
 \\psf\home\documents\visual studio 2013\Projects\ColorAnalyzer\ColorAnalyzer\obj\Debug\ColorAnalyzer.pdb
+C:\Users\NattyXO\Downloads\Compressed\color-analyzer-winform-master\ColorAnalyzer\bin\Debug\ColorAnalyzer.exe.config
+C:\Users\NattyXO\Downloads\Compressed\color-analyzer-winform-master\ColorAnalyzer\bin\Debug\ColorAnalyzer.exe
+C:\Users\NattyXO\Downloads\Compressed\color-analyzer-winform-master\ColorAnalyzer\bin\Debug\ColorAnalyzer.pdb
+C:\Users\NattyXO\Downloads\Compressed\color-analyzer-winform-master\ColorAnalyzer\obj\Debug\ColorAnalyzer.csproj.AssemblyReference.cache
+C:\Users\NattyXO\Downloads\Compressed\color-analyzer-winform-master\ColorAnalyzer\obj\Debug\ColorAnalyzer.Form1.resources
+C:\Users\NattyXO\Downloads\Compressed\color-analyzer-winform-master\ColorAnalyzer\obj\Debug\ColorAnalyzer.Properties.Resources.resources
+C:\Users\NattyXO\Downloads\Compressed\color-analyzer-winform-master\ColorAnalyzer\obj\Debug\ColorAnalyzer.csproj.GenerateResource.cache
+C:\Users\NattyXO\Downloads\Compressed\color-analyzer-winform-master\ColorAnalyzer\obj\Debug\ColorAnalyzer.csproj.CoreCompileInputs.cache
+C:\Users\NattyXO\Downloads\Compressed\color-analyzer-winform-master\ColorAnalyzer\obj\Debug\ColorAnalyzer.exe
+C:\Users\NattyXO\Downloads\Compressed\color-analyzer-winform-master\ColorAnalyzer\obj\Debug\ColorAnalyzer.pdb
